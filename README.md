@@ -8,3 +8,5 @@ Components used - Arduino Uno, ESP 8266 and, ADXL345.
 ThingSpeak cloud for data transmission and retrival.
 
 PyWhatKit for sending messages and a decision tree based machine learning model.
+
+The published paper can be found here: https://ieeexplore.ieee.org/document/10053755
